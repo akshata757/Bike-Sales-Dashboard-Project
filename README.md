@@ -104,12 +104,12 @@ The project utilizes:
 
 7. How to Use
 
-Download or clone the repository.  
-Open the file named `Bike\_Sales\_Dashboard\_Project.xlsx`.  
-Navigate to the Dashboard sheet.  
-Use slicers on the left side to filter customer segments.  
-Review how each visualization updates based on your selections.  
-Explore or modify the dataset as needed for extended analysis.
+- Download or clone the repository.  
+- Open the file named `Bike\_Sales\_Dashboard\_Project.xlsx`.  
+- Navigate to the Dashboard sheet.  
+- Use slicers on the left side to filter customer segments.  
+- Review how each visualization updates based on your selections.  
+- Explore or modify the dataset as needed for extended analysis.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -128,6 +128,7 @@ Potential enhancements include:
 
 Akshata Ashok Pyatigoudar
 Data Analysis and Reporting.
+
 
 
 
