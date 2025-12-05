@@ -1,7 +1,9 @@
 =============================================================
+
              BIKE SALES DASHBOARD PROJECT
 
         Customer Insights • Income Trends • Demographics
+        
 =============================================================
                                                             
 The Bike Sales Dashboard Project is a comprehensive Excel-based analytical solution that examines customer purchasing behavior using demographic, geographic, and economic variables. This dashboard leverages pivot tables, slicers, and visual charts to present actionable insights in a clean and interactive format.
@@ -126,6 +128,7 @@ Potential enhancements include:
 
 Akshata Ashok Pyatigoudar
 Data Analysis and Reporting.
+
 
 
 
